@@ -1,5 +1,5 @@
 package Proyecto;
-
+//Esta es una prueba hadskfgdsdfsk
 public class Contacto {
 private String nombre;
 private String apellidoP;
@@ -12,7 +12,7 @@ public Contacto()
 nombre="Sin Nombre";
 apellidoP="Sin Apellido Paterno";
 apellidoM="Sin Apellido Materno";
-mediosCon="Sin Medio de Comunicación";
+mediosCon="Sin Medio de ComunicaciÃ³n";
 fechadeN="Sin Fecha de Nacimiento";
 }
 
